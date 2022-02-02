@@ -1,0 +1,40 @@
+2021-12-16 15:19:02,920 - ERROR - Row 13 - Retry 1/5 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2021-12-16 15:19:02,921 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Program Files\Python39\lib\site-packages\piplapis\search.py", line 346, in send
+    response = urllib2.urlopen(request)
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 561, in error
+    return self._call_chain(*args)
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Program Files\Python39\lib\urllib\request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Contact Enrichment Example\Python CSV script Example - Enrichment.py", line 93, in get_PIPL_response
+    api_response = send_PIPL_query(request)
+  File "C:\Program Files\Python39\lib\site-packages\limit\limit.py", line 22, in wrapper
+    return fn(*args, **kwargs)
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Contact Enrichment Example\Python CSV script Example - Enrichment.py", line 80, in send_PIPL_query
+    return request.send()
+  File "C:\Program Files\Python39\lib\site-packages\piplapis\search.py", line 358, in send
+    raise exception
+piplapis.search.SearchAPIError: The query does not contain any valid name/username/user_id/phone/email/address to search by
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Contact Enrichment Example\Python CSV script Example - Enrichment.py", line 175, in do_work
+    api_response = get_PIPL_response(request, row_no)
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Contact Enrichment Example\Python CSV script Example - Enrichment.py", line 110, in get_PIPL_response
+    logger.warning(u"Row {} - Retry {}/{} - API Warning: {}".format(row_no, warning))
+IndexError: Replacement index 2 out of range for positional args tuple

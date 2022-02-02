@@ -1,0 +1,15 @@
+{
+    "@http_status_code": 200,
+    "@visible_sources": 0,
+    "@available_sources": 0,
+    "@persons_count": 0,
+    "@search_id": "2112162203401524814819497310167663695",
+    "top_match": true,
+    "query": {
+        "usernames": [
+            {
+                "content": "rekfiradeg@linkedin"
+            }
+        ]
+    }
+}
