@@ -1,0 +1,9 @@
+2021-12-16 16:02:00,242 - ERROR - Row 11 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 6/5
+2021-12-16 16:02:00,762 - ERROR - Row 5 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 7/5
+2021-12-16 16:02:01,299 - ERROR - Row 8 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 8/5
+2021-12-16 16:02:01,816 - ERROR - Row 7 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 9/5
+2021-12-16 16:02:02,347 - ERROR - Row 4 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 10/5
+2021-12-16 16:02:02,931 - ERROR - Row 11 - Retry 2/5 - QPS LIVE:None/None. QPS TOTAL: 8/5
+2021-12-16 16:02:03,455 - ERROR - Row 13 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2021-12-16 16:02:03,470 - WARNING - Row 13 - API Warning: We could not parse a valid username or user_id from the provided url 'https://il.linkedin.com/'
+2021-12-16 16:02:03,470 - WARNING - Row 13 could not get API response
