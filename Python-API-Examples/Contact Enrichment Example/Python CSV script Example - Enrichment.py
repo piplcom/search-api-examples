@@ -1,0 +1,249 @@
+#!python3
+# Threading from http://stackoverflow.com/questions/16199793/python-3-3-simple-threading-event-example
+import threading
+from queue import Queue
+
+from datetime import datetime
+import time
+from timeit import default_timer as timer
+import csv
+import logging
+from limit import limit
+from pathlib import Path
+
+from piplapis.search import SearchAPIRequest, Source
+from piplapis.error import APIError
+from piplapis.data import Person, Address, Name, Phone, Email, Job, DOB
+from piplapis.data.fields import DateRange, URL
+
+# --------Configure input and output file paths + logging ------
+
+INPUT_FILE_PATH = Path('Pipl_test_input_data.csv')
+OUTPUT_FOLDER_PATH = Path('json_output_test/')
+LOG_FOLDER_PATH = Path('Pipl_logs/')
+
+# ---------------------------------------------------------------
+
+# -------Script Configuration -------------------------
+
+
+MAX_QPS = 20 # If Live_feeds are on, change MAX_QPS to 10
+NUMBER_OF_THREADS = 10
+THROTTLE_SLEEP_TIME = NUMBER_OF_THREADS/MAX_QPS
+MAX_RETRY = 5  # number of times to retry a request if get a 403 throttle reached
+LOG_LEVEL = logging.WARNING
+
+# -------Set API key and configuration parameters -----------------
+PIPL_KEY = 'YOUR-API-KEY' # Replace with your BUSINESS PREMIUM key - see https://pipl.com/api/manage/keys
+SearchAPIRequest.set_default_settings(api_key=PIPL_KEY, top_match=True,
+                                      minimum_probability=0.6, live_feeds=False)
+# --------------------------------------------------------
+
+# -------------- CSV Column headers and indexes ---------------------
+
+IS_FIRST_HEADER = True
+
+#Modify the header list to match your input CSV data
+IDX_UNIQUE_ID = 0
+IDX_LINKEDIN_URL = 1
+IDX_NAME_FIRST = 2
+IDX_NAME_LAST = 3
+IDX_ADDRESS_COUNTRY = 4
+IDX_COMPANY_NAME = 5
+IDX_EMAIL = 6
+
+# ----------------------------------------------------------
+
+# ------------ init logging ------------------------------#
+# logging to indicate info, warnings and errors
+logger = logging.getLogger(__name__)
+
+if not Path.exists(LOG_FOLDER_PATH):
+    LOG_FOLDER_PATH.mkdir()
+logFileName = datetime.now().strftime('%m-%d-%Y %H_%M_%S')
+logFilePath = Path(str(LOG_FOLDER_PATH) + '/' + logFileName)
+logFilePath.touch(exist_ok=True)
+
+_handler = logging.FileHandler(logFilePath)
+_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+logger.setLevel(LOG_LEVEL)
+_handler.setLevel(LOG_LEVEL)
+_handler.setFormatter(_formatter)
+
+logger.addHandler(_handler)
+
+
+# --------------------------------------------------------#
+@limit(MAX_QPS, 1) # rate limiting for queries sent
+def send_PIPL_query(request):
+    return request.send()
+
+
+def get_PIPL_response(request, row_no):
+    retryCnt = 0
+    while True:
+        retryCnt = retryCnt + 1
+        if retryCnt > MAX_RETRY:
+            break
+
+        try:
+            start = timer()
+
+            api_response = send_PIPL_query(request)
+            end = timer()
+            queryElapsedTime = end - start
+
+            return api_response
+        except ValueError as ve:
+            with lock:
+                logger.error(u"Row {} - {}".format(row_no, ve))
+            break
+        except APIError as api_error:
+            with lock:
+
+                # Check for QPS errors
+                if api_error.http_status_code == 403:
+                    isOverThrottle = False
+                    if api_error.qps_current:
+                        if (api_error.qps_current > api_error.qps_allotted):
+                            isOverThrottle = True
+                    if api_error.qps_live_current:
+                        if (api_error.qps_live_current > api_error.qps_live_allotted):
+                            isOverThrottle = True
+                    if isOverThrottle is True:
+                        logger.error(u"Row {} - Retry {}/{} - QPS LIVE:{}/{}. QPS TOTAL: {}/{}".format(row_no, retryCnt, MAX_RETRY,
+                                                                                                api_error.qps_live_current,
+                                                                                                api_error.qps_live_allotted,
+                                                                                                api_error.qps_current,
+                                                                                                api_error.qps_allotted))
+                        time.sleep(THROTTLE_SLEEP_TIME)
+                        continue
+
+                if api_error.http_status_code == 500:
+                    logger.error(
+                        u"Row {} - Retry {}/{} - Status Code:{} - {}".format(row_no, retryCnt, MAX_RETRY, api_error.http_status_code, api_error.error))
+                    continue
+
+                if api_error.error:
+                    logger.error(u"Row {} - Status Code:{} - {}".format(row_no, api_error.http_status_code, api_error.error))
+                if api_error.warnings:
+                    for warning in api_error.warnings:
+                        logger.warning(u"Row {} - API Warning: {}".format(row_no, warning))
+
+        except Exception as e:
+            with lock:
+                logger.exception(u"Row {} - {}".format(row_no, e))
+
+        break
+    return
+
+
+def do_work(item):
+
+    try:
+        row_no = item[0]
+        input_data = item[1]
+        fields = []
+
+        # extract next field from input data array
+
+        # Name
+        if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+            if (len(input_data[IDX_NAME_FIRST]) >= 2 or len(input_data[IDX_NAME_LAST]) >= 2):
+                fields.append(
+                    Name(
+                        first=input_data[IDX_NAME_FIRST],
+                        last=input_data[IDX_NAME_LAST]))
+
+        # URL
+        if input_data[IDX_LINKEDIN_URL]:
+            fields.append(URL(url=input_data[IDX_LINKEDIN_URL]))
+
+        # Job
+        if input_data[IDX_COMPANY_NAME]:
+            fields.append(Job(organization=input_data[IDX_COMPANY_NAME]))
+
+        # Address - Country
+        if input_data[IDX_ADDRESS_COUNTRY]:
+            fields.append(Address(country=input_data[IDX_ADDRESS_COUNTRY]))
+
+        # Email
+        if input_data[IDX_EMAIL]:
+            if Email.re_email.match(input_data[IDX_EMAIL]):
+                fields.append(Email(address=input_data[IDX_EMAIL]))
+            else:
+                logger.warning(
+                    "Invalid email: {},{},{}\n".format(row_no, input_data[IDX_UNIQUE_ID], input_data[IDX_EMAIL]))
+
+        request = SearchAPIRequest(person=Person(fields=fields))
+        api_response = get_PIPL_response(request, row_no)
+
+        if api_response:
+
+            file_name = u"{}_{}.json".format(row_no-1,
+                                             input_data[IDX_UNIQUE_ID])
+            json_file = Path.joinpath(OUTPUT_FOLDER_PATH, file_name)
+
+            if api_response.warnings:
+                for warning in api_response.warnings:
+                    logger.warning(u"Row {} - API Warning: {}\n".format(row_no, warning))
+
+            logger.info(u"Row {} results - {} saved".format(row_no, json_file))
+            with lock:
+                json_file = Path.joinpath(OUTPUT_FOLDER_PATH, file_name)
+                with open(json_file, "w+", encoding='utf-8') as fp:
+                    fp.write(api_response.raw_json)
+
+        else:
+            logger.warning(u"Row {} could not get API response".format(row_no))
+
+    except Exception as e:
+        with lock:
+            logger.exception(u"Row {}".format(row_no))
+
+    with lock:
+        logger.info(u"Row {} - {} {}".format(row_no, threading.current_thread().name, item))
+
+
+
+# The worker thread pulls an item from the queue and processes it
+def worker():
+    while True:
+        item = q.get()
+        do_work(item)
+        q.task_done()
+
+
+if __name__ == '__main__':
+    count = 0
+
+    # lock to serialize console output
+    lock = threading.Lock()
+
+    # Create the queue and thread pool.
+    q = Queue()
+    for i in range(NUMBER_OF_THREADS):
+        t = threading.Thread(target=worker)
+        t.daemon = True  # thread dies when main thread (only non-daemon thread) exits.
+        t.start()
+
+    # Create Output folders if it doesn't exist
+    if not Path.exists(OUTPUT_FOLDER_PATH):
+        Path.mkdir(OUTPUT_FOLDER_PATH)
+
+    # Put work items on the queue
+    with open(INPUT_FILE_PATH) as csvfile_read:
+        csvreader = csv.reader(csvfile_read, delimiter=',', quotechar='"')
+        for row in csvreader:
+            count += 1
+            if (count == 1 and IS_FIRST_HEADER):
+                continue
+            item = [count, row]
+            logger.info(u"Fetching record {} {}".format(count, item))
+
+            q.put(item)
+
+    q.join()  # block until all tasks are done
+
+    print('Your CSV file has finished processing')
