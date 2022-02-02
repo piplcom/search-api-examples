@@ -1,0 +1,3 @@
+2021-12-16 16:03:41,375 - ERROR - Row 13 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2021-12-16 16:03:41,375 - WARNING - Row 13 - API Warning: We could not parse a valid username or user_id from the provided url 'https://il.linkedin.com/'
+2021-12-16 16:03:41,375 - WARNING - Row 13 could not get API response
