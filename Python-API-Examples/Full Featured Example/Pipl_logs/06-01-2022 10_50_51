@@ -1,0 +1,17 @@
+2022-01-06 10:50:52,065 - WARNING - Invalid phone: Row 5, Row ID 4,+12349872349587235
+
+2022-01-06 10:50:52,812 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2022-01-06 10:50:52,812 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2022-01-06 10:50:52,844 - WARNING - Invalid phone: Row 13, Row ID 400,+124567
+
+2022-01-06 10:50:53,198 - ERROR - Row 13 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2022-01-06 10:50:53,198 - WARNING - Row 13 - API Warning: We could not parse a valid username or user_id from the provided url 'google.com'
+2022-01-06 10:50:53,207 - WARNING - Row 13 could not get API response
+2022-01-06 10:50:53,662 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+
+2022-01-06 10:50:53,693 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2022-01-06 10:50:53,724 - WARNING - Row 4 - API Warning: ZIP code `94133` was added based on street and city.
+

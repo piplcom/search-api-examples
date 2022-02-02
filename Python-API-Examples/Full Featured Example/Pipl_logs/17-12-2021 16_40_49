@@ -1,0 +1,45 @@
+2021-12-17 16:40:49,406 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:40:49,406 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:40:49,406 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:40:50,047 - ERROR - Row 8 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,047 - WARNING - Row 8 could not get API response
+2021-12-17 16:40:50,047 - ERROR - Row 3 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,047 - WARNING - Row 3 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 6 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 6 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 2 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 2 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 12 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 12 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 9 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 9 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 10 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 10 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 7 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 7 could not get API response
+2021-12-17 16:40:50,063 - ERROR - Row 11 - Status Code:403 - Unrecognized API key
+2021-12-17 16:40:50,063 - WARNING - Row 11 could not get API response

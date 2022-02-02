@@ -1,0 +1,60 @@
+2022-01-12 13:38:08,419 - ERROR - Row 2
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 6
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 8
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 10
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 3
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 7
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 11
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 12
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:38:08,419 - ERROR - Row 9
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined

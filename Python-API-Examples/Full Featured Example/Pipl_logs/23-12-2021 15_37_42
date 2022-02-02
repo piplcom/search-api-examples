@@ -1,0 +1,36 @@
+2021-12-23 15:37:42,331 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 215, in do_work
+    if phonenumbers.is_valid_number(phonenumbers.parse(IDX_PHONE)):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2841, in parse
+    elif len(number) > _MAX_INPUT_STRING_LENGTH:
+TypeError: object of type 'int' has no len()
+2021-12-23 15:37:42,448 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 215, in do_work
+    if phonenumbers.is_valid_number(phonenumbers.parse(IDX_PHONE)):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2841, in parse
+    elif len(number) > _MAX_INPUT_STRING_LENGTH:
+TypeError: object of type 'int' has no len()
+2021-12-23 15:37:42,464 - ERROR - Row 9
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 215, in do_work
+    if phonenumbers.is_valid_number(phonenumbers.parse(IDX_PHONE)):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2841, in parse
+    elif len(number) > _MAX_INPUT_STRING_LENGTH:
+TypeError: object of type 'int' has no len()
+2021-12-23 15:37:42,479 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 215, in do_work
+    if phonenumbers.is_valid_number(phonenumbers.parse(IDX_PHONE)):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2841, in parse
+    elif len(number) > _MAX_INPUT_STRING_LENGTH:
+TypeError: object of type 'int' has no len()
+2021-12-23 15:37:43,184 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-23 15:37:43,200 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-23 15:37:44,044 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2021-12-23 15:37:44,153 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+

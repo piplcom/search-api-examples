@@ -1,0 +1,75 @@
+{
+    "@http_status_code": 200,
+    "@visible_sources": 1,
+    "@available_sources": 171,
+    "@persons_count": 1,
+    "@search_id": "2201122234084035284684340385876574773",
+    "top_match": true,
+    "query": {
+        "names": [
+            {
+                "first": "Matthew",
+                "last": "Curtis",
+                "display": "Matthew Curtis"
+            }
+        ],
+        "phones": [
+            {
+                "country_code": 1,
+                "number": 5412860146,
+                "display": "541-286-0146",
+                "display_international": "+1 541-286-0146"
+            }
+        ]
+    },
+    "available_data": {
+        "premium": {
+            "addresses": 1,
+            "phones": 1,
+            "mobile_phones": 1,
+            "languages": 1,
+            "names": 1
+        }
+    },
+    "person": {
+        "@id": "876d9fbb-8d25-4530-bbee-50fd4a21ed70",
+        "@match": 1.0,
+        "@search_pointer": "9507b688b388a92408aa9a8b90f948f90809032626167d88e14562b8ba6c7cdd54fa9256caa925d5107fbca02d969fbd1fa9bbd6fc6b4347e9bc161e677043e050d37e49a93c2ba3c440bd2d2b5d1d28da1bcd293d2450413f9b2225a636269a70d307542b61ae801c1e3ad50a0de18cf73addc29cc857958058335ac125ced5028fd8b6557321e70a443b2d16c7c30df705b52c6c681186f97a521e0e6c600b79d6c56bc2e9a14033caa871793dca1858ec0ea7afd6c8362d5ceefc82b4ad9164d31179c275c09114f94e516037d0c7ee8eb14c6c05dea0d3453626761048f0fcead87a9f903826623eff7615006ccf296655af3af0f78b4b2e1929333df3fef1d4ba6e4ddfa51156ef901f5f62bba75119d3a31175cb468484aecafa6ca3010626f2fd1f69a3c3632fd236256a65ba0f13bc91750684a0c1ce77e6b64d50bca5dd4454087627aefb44845247bf53616fe6731dd7b976aedb351f1a180705fc4ae7cd007fea939271381890a3ca23b7",
+        "names": [
+            {
+                "@valid_since": "2020-07-17",
+                "@last_seen": "2020-07-17",
+                "first": "Matthew",
+                "last": "Curtis",
+                "display": "Matthew Curtis"
+            }
+        ],
+        "phones": [
+            {
+                "@valid_since": "2020-07-17",
+                "@last_seen": "2020-07-17",
+                "@type": "mobile",
+                "@do_not_call": true,
+                "country_code": 1,
+                "number": 5412860146,
+                "display": "541-286-0146",
+                "display_international": "+1 541-286-0146"
+            }
+        ],
+        "languages": [
+            {
+                "@inferred": true,
+                "language": "en",
+                "display": "en"
+            }
+        ],
+        "addresses": [
+            {
+                "@valid_since": "2020-07-17",
+                "country": "US",
+                "state": "OR",
+                "display": "Oregon, United States"
+            }
+        ]
+    }
+}

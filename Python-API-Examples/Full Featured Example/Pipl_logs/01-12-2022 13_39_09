@@ -1,0 +1,2115 @@
+2022-01-12 13:39:09,363 - ERROR - Row 2
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,363 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,373 - ERROR - Row 6
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,374 - ERROR - Row 8
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,374 - ERROR - Row 10
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,374 - ERROR - Row 3
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,374 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,374 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 9
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 11
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 12
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 7
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 18
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 19
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 16
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 26
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 22
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 23
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 20
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 25
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 17
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 15
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 28
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 21
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 14
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 31
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 32
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 29
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 34
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 35
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 36
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 33
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 38
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 39
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 24
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 41
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,376 - ERROR - Row 42
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,387 - ERROR - Row 27
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,387 - ERROR - Row 40
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,387 - ERROR - Row 45
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,388 - ERROR - Row 46
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,389 - ERROR - Row 43
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,389 - ERROR - Row 44
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 37
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 30
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 51
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 48
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 49
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 50
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 55
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 56
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 62
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 58
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 59
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 60
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 57
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 53
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 47
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 64
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 65
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 66
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 63
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 68
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 69
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 54
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 67
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 72
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 61
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 74
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 71
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 52
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 73
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 70
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 75
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 80
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 77
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 83
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 78
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 76
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 81
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 82
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 87
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 84
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 94
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 95
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,390 - ERROR - Row 79
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 88
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 93
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 90
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 86
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 96
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 89
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 85
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 99
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 100
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 97
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 102
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 103
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 104
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 101
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 111
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 91
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 113
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 105
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 110
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 107
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 112
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 109
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 106
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 115
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 108
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 117
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 118
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 98
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 116
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 121
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 114
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 119
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 124
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 125
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 126
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 123
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 128
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 129
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 122
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 131
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 120
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 92
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 134
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 127
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,405 - ERROR - Row 136
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 133
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 130
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 139
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 132
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 137
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 138
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 143
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 140
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 141
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 142
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 147
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 144
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 145
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 150
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 151
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 157
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 153
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 154
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 135
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 156
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 148
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 146
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 159
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 152
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 149
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 158
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 163
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 160
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 161
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 166
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 155
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 164
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 169
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 170
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 167
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 172
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 173
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 162
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 175
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 176
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 177
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 174
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 171
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 181
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 165
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,421 - ERROR - Row 178
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,437 - ERROR - Row 188
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,437 - ERROR - Row 184
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 168
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 186
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 192
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 180
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 185
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 190
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 191
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 179
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 189
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 182
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 195
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 196
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 197
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 198
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 187
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 200
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 193
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 194
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 199
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 204
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 201
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 206
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 203
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 183
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 205
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 202
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 211
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 217
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 213
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 210
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 207
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 216
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 208
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 218
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 219
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 220
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 221
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 222
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 223
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 212
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 225
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 214
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 227
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 228
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 229
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 226
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 215
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 232
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 209
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 234
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,438 - ERROR - Row 240
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,454 - ERROR - Row 224
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,454 - ERROR - Row 233
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,455 - ERROR - Row 230
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,455 - ERROR - Row 235
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,455 - ERROR - Row 236
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,455 - ERROR - Row 241
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,456 - ERROR - Row 238
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,456 - ERROR - Row 239
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,456 - ERROR - Row 231
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 237
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 246
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 243
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 248
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 249
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 242
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 247
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 244
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 245
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 254
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 251
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 252
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 257
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 258
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 255
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 260
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 261
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 250
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 263
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 256
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 265
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 262
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 259
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 268
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 253
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 266
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 267
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 272
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 269
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 270
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 275
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 264
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 273
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 274
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 279
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 280
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 281
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 282
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 271
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 284
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 277
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 286
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 283
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 288
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 289
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 278
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 287
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 292
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 285
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,458 - ERROR - Row 290
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 291
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 276
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 293
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 294
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 295
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,474 - ERROR - Row 300
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,476 - ERROR - Row 297
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,476 - ERROR - Row 298
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,476 - ERROR - Row 299
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 304
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 301
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 306
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 303
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 296
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 314
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 310
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 307
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 308
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 309
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 302
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 311
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 316
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 313
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 305
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 319
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 312
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 321
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 318
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 315
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 324
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 325
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 322
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 323
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 320
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 317
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 326
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 327
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 332
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 329
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 330
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 335
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 328
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 337
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 334
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 331
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 336
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 333
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 342
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 339
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 344
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 345
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 338
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 347
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 348
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 341
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 346
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 343
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,477 - ERROR - Row 352
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,493 - ERROR - Row 349
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,493 - ERROR - Row 350
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,493 - ERROR - Row 351
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 340
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 353
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 354
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 355
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 356
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 357
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 358
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,494 - ERROR - Row 359
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 360
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 365
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 366
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 363
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 364
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 361
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 362
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 367
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 368
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 369
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 379
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 371
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 372
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 373
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 378
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 375
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 376
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 377
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 374
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 370
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 380
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 381
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 391
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 383
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 384
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 390
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 386
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 387
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 388
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 389
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 385
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 382
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 392
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 393
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 394
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 399
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 396
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 397
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 398
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 395
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 400
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 401
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 402
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 403
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 404
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 409
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 406
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 411
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 408
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 413
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 410
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 407
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,496 - ERROR - Row 416
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 405
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 414
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 419
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 412
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 417
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 418
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 415
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 420
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 422
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 424
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 423
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined
+2022-01-12 13:39:09,512 - ERROR - Row 421
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 174, in do_work
+    if input_data[IDX_NAME_FIRST] and input_data[IDX_NAME_LAST]:
+NameError: name 'IDX_NAME_FIRST' is not defined

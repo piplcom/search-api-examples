@@ -1,0 +1,18 @@
+2021-12-23 15:15:33,831 - ERROR - Row 9 - Some fields are unsearchable: [Phone(number='15412860146')]
+2021-12-23 15:15:33,831 - WARNING - Row 9 could not get API response
+2021-12-23 15:15:34,724 - WARNING - Row 5 - API Warning: The provided number `1.65E+15` is not numeric, and could not be used. Please use the `raw` property for unparsed phones
+
+2021-12-23 15:15:34,818 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-23 15:15:34,833 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-23 15:15:34,958 - ERROR - Row 13 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2021-12-23 15:15:34,971 - WARNING - Row 13 - API Warning: Parameter `phone` with value `124567` could not be parsed to a valid phone
+2021-12-23 15:15:34,971 - WARNING - Row 13 - API Warning: We could not parse a valid username or user_id from the provided url 'google.com'
+2021-12-23 15:15:34,971 - WARNING - Row 13 could not get API response
+2021-12-23 15:15:35,751 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2021-12-23 15:15:35,845 - WARNING - Row 4 - API Warning: ZIP code `94133` was added based on street and city.
+
+2021-12-23 15:15:35,928 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+

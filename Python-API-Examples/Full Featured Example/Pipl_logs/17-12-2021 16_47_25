@@ -1,0 +1,49 @@
+2021-12-17 16:47:25,510 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_possible_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2257, in is_possible_number
+    result = is_possible_number_with_reason(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2358, in is_possible_number_with_reason
+    return is_possible_number_for_type_with_reason(numobj, PhoneNumberType.UNKNOWN)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2393, in is_possible_number_for_type_with_reason
+    national_number = national_significant_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 1628, in national_significant_number
+    if numobj.italian_leading_zero:
+AttributeError: 'int' object has no attribute 'italian_leading_zero'
+2021-12-17 16:47:25,604 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_possible_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2257, in is_possible_number
+    result = is_possible_number_with_reason(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2358, in is_possible_number_with_reason
+    return is_possible_number_for_type_with_reason(numobj, PhoneNumberType.UNKNOWN)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2393, in is_possible_number_for_type_with_reason
+    national_number = national_significant_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 1628, in national_significant_number
+    if numobj.italian_leading_zero:
+AttributeError: 'int' object has no attribute 'italian_leading_zero'
+2021-12-17 16:47:25,620 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_possible_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2257, in is_possible_number
+    result = is_possible_number_with_reason(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2358, in is_possible_number_with_reason
+    return is_possible_number_for_type_with_reason(numobj, PhoneNumberType.UNKNOWN)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2393, in is_possible_number_for_type_with_reason
+    national_number = national_significant_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 1628, in national_significant_number
+    if numobj.italian_leading_zero:
+AttributeError: 'int' object has no attribute 'italian_leading_zero'
+2021-12-17 16:47:26,512 - WARNING - Row 9 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:47:26,591 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:47:26,622 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:47:27,341 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2021-12-17 16:47:27,528 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+

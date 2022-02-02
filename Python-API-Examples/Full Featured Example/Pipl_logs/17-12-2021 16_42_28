@@ -1,0 +1,40 @@
+2021-12-17 16:42:28,689 - ERROR - Row 4
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:42:28,768 - ERROR - Row 5
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:42:28,784 - ERROR - Row 13
+Traceback (most recent call last):
+  File "C:\Users\Matthew Curtis\Documents\Github-Pipl\Tests\Full Featured Example\Python CSV script Example - Full featured.py", line 205, in do_work
+    if phonenumbers.is_valid_number(IDX_PHONE):
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2025, in is_valid_number
+    region_code = region_code_for_number(numobj)
+  File "C:\Program Files\Python39\lib\site-packages\phonenumbers\phonenumberutil.py", line 2079, in region_code_for_number
+    country_code = numobj.country_code
+AttributeError: 'int' object has no attribute 'country_code'
+2021-12-17 16:42:29,243 - ERROR - Row 11 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 6/5
+2021-12-17 16:42:29,484 - WARNING - Row 9 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:42:29,484 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:42:29,516 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2021-12-17 16:42:29,751 - ERROR - Row 6 - Retry 1/5 - QPS LIVE:None/None. QPS TOTAL: 6/5
+2021-12-17 16:42:30,282 - ERROR - Row 11 - Retry 2/5 - QPS LIVE:None/None. QPS TOTAL: 6/5
+2021-12-17 16:42:30,449 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2021-12-17 16:42:31,889 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+

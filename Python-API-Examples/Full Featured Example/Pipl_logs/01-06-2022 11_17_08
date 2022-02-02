@@ -1,0 +1,27 @@
+2022-01-06 11:17:08,331 - WARNING - Invalid phone: Row 5, Row ID 4,+12349872349587235
+
+2022-01-06 11:17:09,041 - WARNING - Row 3 - API Warning: ZIP code `83854` was added based on street and city.
+
+2022-01-06 11:17:09,053 - WARNING - Invalid phone: Row 13, Row ID 400,+124567
+
+2022-01-06 11:17:09,186 - WARNING - Row 7 - API Warning: ZIP code `83854` was added based on street and city.
+
+2022-01-06 11:17:09,416 - ERROR - Row 13 - Status Code:400 - The query does not contain any valid name/username/user_id/phone/email/address to search by
+2022-01-06 11:17:09,416 - WARNING - Row 13 - API Warning: We could not parse a valid username or user_id from the provided url 'google.com'
+2022-01-06 11:17:09,423 - WARNING - Row 13 could not get API response
+2022-01-06 11:17:09,908 - WARNING - Row 4 - API Warning: ZIP code `94133` was added based on street and city.
+
+2022-01-06 11:17:09,908 - WARNING - Row 2 - API Warning: ZIP code `94133` was added based on street and city.
+
+2022-01-06 11:17:10,108 - WARNING - Row 6 - API Warning: ZIP code `94133` was added based on street and city.
+
+2022-01-06 11:17:10,304 - INFO - Total Pipl API Responses: 11
+2022-01-06 11:17:10,304 - INFO - Perfect Matches: 10 - 90.9%
+2022-01-06 11:17:10,304 - INFO - Possible Matches: 0 - 0%
+2022-01-06 11:17:10,304 - INFO - No Matches: 1 - 9.09%
+2022-01-06 11:17:10,304 - INFO - Could not read 1 row(s)
+
+2022-01-06 11:17:10,304 - INFO - Of your Perfect matches, 9 responses(90%) had an email in the response
+
+2022-01-06 11:17:10,304 - INFO - Of your Perfect matches, 10 responses(100%) had a phone in the response
+
