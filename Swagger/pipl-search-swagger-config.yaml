@@ -1,0 +1,807 @@
+openapi: 3.0.1
+info:
+  title: PIPL Search API
+  description: >-
+    ### Enrich your contact lists with mobile phone numbers, home, and business
+    addresses, and email addresses, and social media account links ensuring that
+    your teams have access to up-to-date contact channels. Verify existing
+    information and gain insights for better segmentation and data modeling.
+  contact:
+    name: Pipl Technical Sales Team
+    url: 'https://pipl.com/contact-us'
+    email: sales@pipl.com
+  version: 0.6.0
+  termsOfService: https://pipl.com/tos
+servers:
+  -  url: 'https://api.pipl.com'
+     description: 'Search API'
+tags:
+- name: "Search API"
+  description: ""
+  externalDocs:
+    description: "Find out more"
+    url: "https://docs.pipl.com/reference"
+  
+security:
+  - APIKeyQueryParam: []
+paths:
+  /search:
+    summary: >-
+      ## Use the GET method for basic searching for Person(s). The POST method can be
+      used for digging deeper with ["Search Pointer"](#/components/schemas/SearchPointer) or by a ["Person"](#/components/schemas/SearchByPerson)
+    get:
+      tags:
+      - "Search API"
+      description: >-
+        ## SEARCH API via GET method for ease of integration
+      parameters:
+        - name: minimum_probability
+          in: query
+          description: 0 – 1. The minimum acceptable probability for inferred data.
+          required: false
+          style: form
+          explode: true
+          allowEmptyValue: false
+          schema:
+            type: number
+            format: float
+            default: 0.9
+        - name: minimum_match
+          in: query
+          description: >-
+            0 – 1. The minimum required match score for possible persons to be
+            returned.
+          required: false
+          style: form
+          explode: true
+          allowEmptyValue: false
+          schema:
+            type: number
+            format: float
+            default: 0
+        - name: show_sources
+          in: query
+          description: >-
+            all - all sources are shown. matching or true - only sources from
+            the person. false - don’t show sources.
+          required: false
+          style: form
+          explode: true
+          allowEmptyValue: false
+          schema:
+            type: string
+            default: 'false'
+            enum:
+              - 'true'
+              - 'false'
+              - all
+              - matching
+        - name: live_feeds
+          in: query
+          description: Whether to use live data sources.
+          required: false
+          style: form
+          explode: true
+          allowEmptyValue: false
+          schema:
+            type: boolean
+            default: true
+        - name: match_requirements
+          in: query
+          description: >-
+            A condition to specify what fields you must get back. Responses not
+            meeting the criteria will return empty and won’t be charged.
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: source_category_requirements
+          in: query
+          description: >-
+            A condition to specify what source categories you must get back.
+            Responses with no persons that meet the criteria will return empty
+            and won’t be charged.
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: top_match
+          in: query
+          description: >-
+            Returns the best high-ranking Person match to your search. The API will only return a
+            highly probable Person OR a No Match (when no highly probable
+            profile is found). It never returns a Possible Persons’ response.
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: boolean
+            default: false
+        - name: hide_sponsored
+          in: query
+          description: >-
+            Whether to omit results marked "sponsored" (when additional data
+            from this source is available behind a website paywall).
+          required: false
+          style: form
+          explode: true
+          allowEmptyValue: false
+          schema:
+            type: boolean
+            default: false
+        - name: first_name
+          in: query
+          description: 'First name or given name of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: middle_name
+          in: query
+          description: 'Middle name of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: last_name
+          in: query
+          description: 'Last name or family name of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: raw_name
+          in: query
+          description: >-
+            Full name of the person you are searching. Use this parameter if the name is not parsed into its subcomponents (first/middle/last).
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: house
+          in: query
+          description: 'House number of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: street
+          in: query
+          description: >-
+            Street portion of the address only, of the person you are
+            searching
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: city
+          in: query
+          description: 'City of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: state
+          in: query
+          description: 'State or province of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: zipcode
+          in: query
+          description: 'Zipcode or postalcode of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: country
+          in: query
+          description: 'Country ISO Alpha 2-Code, of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: raw_address
+          in: query
+          description: >-
+            Full address of the person you are searching. Use this parameter if the address is not parsed into its subcomponents (country/state/city…).
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: age
+          in: query
+          description: >-
+            An exact (YY) or approximate (YY-YY) age, of the person you are
+            searching
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: email
+          in: query
+          description: 'Email Address of the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: phone
+          in: query
+          description: >-
+            Phone Number of the person you are searching in international format. Example
+            +1(978)555-0145
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: username
+          in: query
+          description: 'Username, minimum 3 characters, used by the person you are searching'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: user_id
+          in: query
+          description: >-
+            User ID of the person you are searching. Must include the service name (e.g. 11231@facebook), 
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+        - name: url
+          in: query
+          description: 'URL of a social media profile of the person you are searching. Must be from a supported social media service. example: https://www.linkedin.com/pub/superman/20/7a/365'
+          required: false
+          style: form
+          allowEmptyValue: false
+          explode: true
+          schema:
+            type: string
+      responses:
+        '400':
+          $ref: '#/components/responses/400'
+        '403':
+          $ref: '#/components/responses/403'
+        '500':
+          $ref: '#/components/responses/500'
+        '200':
+          $ref: '#/components/responses/200'
+      security:
+        - APIKeyQueryParam: []
+    post:
+      tags:
+      - "Search API"
+      description: >-
+        ## Using POST allows searching by a [Search Pointer](#/components/schemas/SearchPointer) or by a [Person](#/components/schemas/SearchByPerson)
+      requestBody:
+        description: >-
+          ### Either a [Search Pointer](#/components/requestBodies/Search_Pointer)
+          or a [Search by Person](#/components/requestBodies/Search_by_Person)
+          must be in the request body.
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              oneOf:
+                - $ref: '#/components/schemas/SearchByPerson'
+                - $ref: '#/components/schemas/SearchPointer'
+      security:
+        - APIKeyQueryParam: []
+      responses:
+        '400':
+          $ref: '#/components/responses/400'
+        '403':
+          $ref: '#/components/responses/403'
+        '500':
+          $ref: '#/components/responses/500'
+        '200':
+          $ref: '#/components/responses/200'
+components:
+  requestBodies:
+    Search_Pointer:
+      content:
+        application/x-www-form-urlencoded:
+          schema:
+            type: object
+            description: >-
+              Each person returned in an API response will have a special
+              attribute called "search pointer." If the person was a possible
+              person, run a follow-up search, which will pull up more data about
+              this person. If the person was a match, use the search pointer to
+              cache a reference to this person. Searching by the search pointer
+              will almost always return the same person again.
+            properties:
+              sp:
+                type: string
+                example: >-
+                  271383018c1bb2ee9eab932ae759486b3df37146b1397382f9a56096ffb712111b630fe14355cbf2ad34d69b3102948f52bb2097fe186d8ca01d83cc8185a2839b6efb...
+                minLength: 64
+    Search_by_Person:
+      content:
+        application/x-www-form-urlencoded:
+          schema:
+            type: object
+            description: >-
+              JSON Object of a [Person](#/components/schemas/Person) in string
+              form
+            properties:
+              person:
+                type: string
+                example: >-
+                  {"names": [{ "first": "Brian", "middle": "G"}], "addresses":[{
+                  "city":"spokane", "state":"WA", "country":"US" }]}
+  schemas:
+    SearchPointer:
+      type: object
+      description: >-
+              Each person returned in an API response will have a special
+              attribute called "search pointer." If the person was a possible
+              person, run a follow-up search, which will pull up more data about
+              this person. If the person was a match, use the search pointer to
+              cache a reference to this person. Searching by the search pointer
+              will almost always return the same person again.
+      properties:
+        sp:
+          type: string
+          example: >-
+            271383018c1bb2ee9eab932ae759486b3df37146b1397382f9a56096ffb712111b630fe14355cbf2ad34d69b3102948f52bb2097fe186d8ca01d83cc8185a2839b6efb...
+          minLength: 64
+    SearchByPerson:
+      type: object
+      description: >-
+        JSON Object of a [Person](#/components/schemas/Person) in string
+        form
+      properties:
+        person:
+          type: string
+          example: >-
+            {"names": [{ "first": "Brian", "middle": "G"}], "addresses":[{
+            "city":"spokane", "state":"WA", "country":"US" }]}
+    AvailableData:
+      required:
+        - premium
+      type: object
+      properties:
+        premium:
+          type: object
+          properties:
+            relationships:
+              type: integer
+            usernames:
+              type: integer
+            jobs:
+              type: integer
+            addresses:
+              type: integer
+            phones:
+              type: integer
+            mobile_phones:
+              type: integer
+            landline_phones:
+              type: integer
+            educations:
+              type: integer
+            languages:
+              type: integer
+            user_ids:
+              type: integer
+            social_profiles:
+              type: integer
+            names:
+              type: integer
+            dobs:
+              type: integer
+            images:
+              type: integer
+            genders:
+              type: integer
+            emails:
+              type: integer
+      description: AvailableData is returned on every query highlighting how many objects of each type were found matching your query.
+    QueryResponse:
+      type: object
+      properties:
+        '@http_status_code':
+          type: integer
+          description: The HTTP status code of the response. Successful calls will be 200
+        '@visible_sources':
+          type: integer
+          description: >-
+            The number of sources returned in the sources array (if show_sources
+            is not false)
+        '@available_sources':
+          type: integer
+          description: The number of sources we know of that are relevant to the search
+        '@persons_count':
+          type: integer
+          description: The number of persons returned in this API response
+        '@search_id':
+          type: string
+          description: >-
+            An internal ID that identifies the search on our systems. Useful for
+            debugging
+        query:
+          description: >-
+            An echo of the search parameters you've sent. Useful to see how the API has interpreted your query
+        match_requirements:
+          type: string
+          description: >-
+            An echo of the match requirement you’ve sent. Useful to see how the API parsed your criteria
+        available_data:
+          $ref: '#/components/schemas/AvailableData'
+        error:
+          type: string
+          description: >-
+            An error message explaining an error that prevented your search from
+            being run
+        warnings:
+          type: array
+          description: An array of warning strings
+          items:
+            type: string
+        person:
+          $ref: '#/components/schemas/Person'
+        possible_persons:
+          type: array
+          items:
+            $ref: '#/components/schemas/Person'
+          description: An array of person objects containing possible matches
+        sources:
+          type: array
+          description: >-
+            An array of source objects, in case you need to see where the data
+            came from
+          items:
+            type: object
+      description: Standard response to all queries of the SEARCH API that return information.
+    Person:
+      type: object
+      properties:
+        '@match':
+          type: number
+        '@search_pointer':
+          type: string
+        names:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              '@last_seen':
+                type: string
+              prefix:
+                type: string
+              first:
+                type: string
+              middle:
+                type: string
+              last:
+                type: string
+              display:
+                type: string
+        usernames:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              content:
+                type: string
+        phones:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              '@type':
+                type: string
+              country_code:
+                type: number
+              number:
+                type: number
+              display:
+                type: string
+              display_international:
+                type: string
+        gender:
+          required:
+            - content
+          properties:
+            '@valid_since':
+              type: string
+            content:
+              type: string
+          type: object
+        dob:
+          required:
+            - date_range
+            - display
+          properties:
+            '@valid_since':
+              type: string
+            date_range:
+              required:
+                - start
+                - end
+              properties:
+                start:
+                  type: string
+                end:
+                  type: string
+              type: object
+            display:
+              type: string
+          type: object
+        languages:
+          type: array
+          items:
+            type: object
+            properties:
+              region:
+                type: string
+              language:
+                type: string
+              display:
+                type: string
+        addresses:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              country:
+                type: string
+              state:
+                type: string
+              city:
+                type: string
+              display:
+                type: string
+        jobs:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              '@last_seen':
+                type: string
+              title:
+                type: string
+              organization:
+                type: string
+              date_range:
+                required:
+                  - start
+                properties:
+                  start:
+                    type: string
+                type: object
+              display:
+                type: string
+        educations:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              '@last_seen':
+                type: string
+              degree:
+                type: string
+              school:
+                type: string
+              date_range:
+                required:
+                  - start
+                  - end
+                properties:
+                  start:
+                    type: string
+                  end:
+                    type: string
+                type: object
+              display:
+                type: string
+        relationships:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              '@type':
+                type: string
+              '@subtype':
+                type: string
+              names:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    '@valid_since':
+                      type: string
+                    first:
+                      type: string
+                    middle:
+                      type: string
+                    last:
+                      type: string
+                    display:
+                      type: string
+        user_ids:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              content:
+                type: string
+        images:
+          type: array
+          items:
+            type: object
+            properties:
+              '@valid_since':
+                type: string
+              url:
+                type: string
+              thumbnail_token:
+                type: string
+      description: Object consists of everything PIPL knows about the individual per the query.
+    Error:
+      type: object
+      properties:
+        '@http_status_code':
+          type: integer
+          example: 400
+          description: http status code
+        warnings:
+          type: array
+          example: '["String Array of the multiple warnings that occurred"]'
+          description: string array of multiple warnings that occurred
+          items:
+            type: string
+        error:
+          type: string
+          example: Will be the error that occurred
+          description: main error that occurred
+      description: Standardized Error objects are returned when the SEARCH API contains an error with the query.
+  responses:
+    '200':
+      description: 'Successful Query'
+      headers:
+        X-QPS-Allotted:
+          description: 'The number of queries the subscriber is allowed to do per second'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-QPS-Current:
+          description: 'The number of queries a subscriber has run this second'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-QPS-Live-Allotted:
+          description: 'The number of live queries a subscriber is allowed to do per second'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-QPS-Live-Current:
+          description: 'The number of live queries a subscriber has run this second'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-Package-Expiry:
+          description: 'Date string of when the API Key will expire'
+          style: simple
+          explode: false
+          schema:
+            type: string
+        X-Package-Current:
+          description: 'Current number of requests already utilized by the subscriber on this package key'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-Package-Allotted:
+          description: 'Maximum number of requests, in total, allowed for subscriber on this package key'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-Quota-Alotted:
+          description: 'Maximum number of requests, in total, allowed for subscriber by a self-imposed usage quota'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        X-Quota-Current:
+          description: 'Current number of requests already utilized by the subscriber against their self-imposed usage quota'
+          style: simple
+          explode: false
+          schema:
+            type: integer
+          
+        
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/QueryResponse'
+    '400':
+      description: >-
+        Bad Request.
+        Either we could not decode your search request or it did not
+        contain enough data for a search.
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+    '403':
+      description: >-
+        Calls Exceeded. You have either been rate-limited or you’ve reached your
+        key quota, organization spend limit, or your account has been suspended.
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+    '500':
+      description: 'Internal Server Error'
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+  securitySchemes:
+    APIKeyQueryParam:
+      type: apiKey
+      name: key
+      in: query
+externalDocs:
+  url: http://docs.pipl.com
+  description: External Documentation
